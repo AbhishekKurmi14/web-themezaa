@@ -1,0 +1,60 @@
+html,body{
+    margin: 0px;
+    height: 100%
+}
+.bg1_image{
+    background-image: url(../image/01.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+.bg2_image{
+    background-image: url(../image/02.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+.bg3_image{
+    background-image: url(../image/03.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+.bg4_image{
+    background-image: url(../image/04.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+.bg5_image{
+    background-image: url(../image/05.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+.bg6_image{
+    background-image: url(../image/06.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+.bg7_image{
+    background-image: url(../image/07.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
+.bg8_image{
+    background-image: url(../image/08.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+}
