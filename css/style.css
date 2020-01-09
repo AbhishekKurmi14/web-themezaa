@@ -8,6 +8,7 @@ html,body{
     background-size: cover;
     background-position: center;
     height: 100%;
+    width: 100%;
 }
 .bg2_image{
     background-image: url(../image/02.png);
@@ -15,6 +16,7 @@ html,body{
     background-size: cover;
     background-position: center;
     height: 100%;
+    width: 100%;
 }
 .bg3_image{
     background-image: url(../image/03.png);
@@ -22,6 +24,7 @@ html,body{
     background-size: cover;
     background-position: center;
     height: 100%;
+    width: 100%;
 }
 .bg4_image{
     background-image: url(../image/04.png);
@@ -29,6 +32,7 @@ html,body{
     background-size: cover;
     background-position: center;
     height: 100%;
+    width: 100%;
 }
 .bg5_image{
     background-image: url(../image/05.png);
@@ -36,6 +40,7 @@ html,body{
     background-size: cover;
     background-position: center;
     height: 100%;
+    width: 100%;
 }
 .bg6_image{
     background-image: url(../image/06.png);
@@ -43,6 +48,7 @@ html,body{
     background-size: cover;
     background-position: center;
     height: 100%;
+    width: 100%;
 }
 .bg7_image{
     background-image: url(../image/07.png);
@@ -50,6 +56,7 @@ html,body{
     background-size: cover;
     background-position: center;
     height: 100%;
+    width: 100%;
 }
 .bg8_image{
     background-image: url(../image/08.png);
@@ -57,4 +64,117 @@ html,body{
     background-size: cover;
     background-position: center;
     height: 100%;
+    width: 100%;
+}
+.bg9_image{
+    background-image: url(../image/09.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+.bg10_image{
+    background-image: url(../image/10.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+.bg11_image{
+    background-image: url(../image/11.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+.bg12_image{
+    background-image: url(../image/12.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+.bg13_image{
+    background-image: url(../image/13.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+.bg14_image{
+    background-image: url(../image/14.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+.bg15_image{
+    background-image: url(../image/15.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+.bg16_image{
+    background-image: url(../image/16.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+.bg17_image{
+    background-image: url(../image/17.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+.bg18_image{
+    background-image: url(../image/18.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+.bg19_image{
+    background-image: url(../image/19.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+.bg20_image{
+    background-image: url(../image/20.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+.bg21_image{
+    background-image: url(../image/21.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+.bg22_image{
+    background-image: url(../image/22.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
 }
